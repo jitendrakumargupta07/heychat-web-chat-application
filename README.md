@@ -106,6 +106,8 @@ Project is actively developed and production-ready.
 ```
 ---
 
+---
+
 👨‍💻 Author
 Jitendra Kumar Gupta
 GitHub: https://github.com/jitendrakumargupta07
