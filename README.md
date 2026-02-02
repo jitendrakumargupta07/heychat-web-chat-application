@@ -103,6 +103,8 @@ Environment variables must be set in the respective dashboards.
 
 ✅ Status
 Project is actively developed and production-ready.
+```
+---
 
 👨‍💻 Author
 Jitendra Kumar Gupta
