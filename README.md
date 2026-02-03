@@ -17,7 +17,7 @@ It supports authentication, one-to-one chat, online/offline status, message read
 - Responsive and clean UI
 
 ---
-
+ 
 ## 🛠 Tech Stack
 
 ### Frontend
